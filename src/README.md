@@ -1,0 +1,1 @@
+To run the code, please place the src folder here and the extern folder in HW3 under the same directory. And then open VSCode and press the Run button in the bottom left corner to launch the project. 
